@@ -19,8 +19,3 @@ DELETE a book:
     
     
 ###
-
-npm init
-npm intall express
-node app.js
-
